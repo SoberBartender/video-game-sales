@@ -10,7 +10,7 @@ It uses **Pandas** for data analysis and **Matplotlib** for visualization.
 - Clear storytelling
 
 [Top 10 Video Games sales of all time from NA/EU/JP total] (https://imgur.com/ALU0zFf)
-
+[A Tableau Interactive Table showing Total Sales per Region] (https://public.tableau.com/authoring/Top10GameSales/Dashboard1#1)
 # Key Findings
 - Wii Sports was by far the most sold game of all time, but it was bundled with the console it came with.
 - All the Mario and Pokemon games were by far better sellers in JP than any other region.
