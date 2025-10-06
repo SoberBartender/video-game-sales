@@ -9,3 +9,4 @@ It uses **Pandas** for data analysis and **Matplotlib** for visualization.
 - Data visualization
 - Clear storytelling
 
+[Top 10 Video Games sales of all time from NA/EU/JP total] (https://imgur.com/ALU0zFf)
